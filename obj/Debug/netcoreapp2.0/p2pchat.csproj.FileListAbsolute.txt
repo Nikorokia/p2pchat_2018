@@ -1,0 +1,10 @@
+C:\Users\nicos\Desktop\cprograms\p2pchat\bin\Debug\netcoreapp2.0\p2pchat.deps.json
+C:\Users\nicos\Desktop\cprograms\p2pchat\bin\Debug\netcoreapp2.0\p2pchat.runtimeconfig.json
+C:\Users\nicos\Desktop\cprograms\p2pchat\bin\Debug\netcoreapp2.0\p2pchat.runtimeconfig.dev.json
+C:\Users\nicos\Desktop\cprograms\p2pchat\bin\Debug\netcoreapp2.0\p2pchat.dll
+C:\Users\nicos\Desktop\cprograms\p2pchat\bin\Debug\netcoreapp2.0\p2pchat.pdb
+C:\Users\nicos\Desktop\cprograms\p2pchat\obj\Debug\netcoreapp2.0\p2pchat.csproj.CoreCompileInputs.cache
+C:\Users\nicos\Desktop\cprograms\p2pchat\obj\Debug\netcoreapp2.0\p2pchat.AssemblyInfoInputs.cache
+C:\Users\nicos\Desktop\cprograms\p2pchat\obj\Debug\netcoreapp2.0\p2pchat.AssemblyInfo.cs
+C:\Users\nicos\Desktop\cprograms\p2pchat\obj\Debug\netcoreapp2.0\p2pchat.dll
+C:\Users\nicos\Desktop\cprograms\p2pchat\obj\Debug\netcoreapp2.0\p2pchat.pdb
