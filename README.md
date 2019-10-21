@@ -13,9 +13,7 @@ Multiple language options were available; I chose to continue studying C#.
 - Make a protocol where programs running that protocol will find other machines running the same protocol.
 - Use this discovery system to simplify configuration of some service. For example, have some machines offering a "printing" service and have other machines list available services.
 - Must be restricted to running on our lab machines.
-- Examples: Universal Plug and Play, Zeroconf, Bonjour, and Gossip protocol
-
-"
+- Examples: Universal Plug and Play, Zeroconf, Bonjour, and Gossip protocol "
 
 ## Project Submission
 
